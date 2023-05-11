@@ -1,0 +1,20 @@
+Checkers
+- Board:
+	+ 8*8
+	+ Black and white squares
+	+ Two  "King rows": row 0 and row 7
+	+ Array of 64 squares
+	+ Squares:
+		A square is just position [x,y]
+	+ Redraw board every loop?
+	B W B W B W B W
+	W B W B W B W B	 
+- Pieces:
+	+ 24 pieces
+	+ Red and white
+	+ Array of 12 red pieces 
+	+ Array of 12 white pieces
+	+ Move Diagonally 
+	+ Turn to king if reach king row in the end of the line
+		
+	
